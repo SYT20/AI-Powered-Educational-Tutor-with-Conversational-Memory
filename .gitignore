@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.dll
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+.ai/
+
+# IDE
+.vscode/
+.idea/
+
+# Streamlit cache
+.streamlit/
+
+# Local data and artifacts
+vector_store/
+sessions/
+
+# Environment & secrets
+.env
+.env.*
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
